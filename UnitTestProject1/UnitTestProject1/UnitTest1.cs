@@ -10,7 +10,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             System.Console.Write("Danica");
-            System.Console.Write("mybranch1 modify_1");
+            System.Console.Write("mybranch1 modify_1_2");
         }
     }
 }
