@@ -14,5 +14,10 @@ namespace UnitTestProject1
 	    System.Console.Write("Sam");
 	    System.Console.Write("Sam2");
         }
+
+        public void saitest()
+        {
+            System.Console.Write("Sai");
+        }
     }
 }
