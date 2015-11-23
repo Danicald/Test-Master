@@ -12,6 +12,7 @@ namespace UnitTestProject1
             System.Console.Write("Danica");
             System.Console.Write("mybranch1 modify_1_2");
 	    System.Console.Write("Sam");
+	    System.Console.Write("Sam2");
         }
     }
 }
