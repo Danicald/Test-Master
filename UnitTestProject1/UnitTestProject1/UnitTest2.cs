@@ -10,6 +10,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             System.Console.Write("hahahaha");
+            System.Console.Write("hahahahaZoe");
         }
     }
 }
